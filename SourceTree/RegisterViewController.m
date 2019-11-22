@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"没有刷新??????");
+    NSLog(@"这他么到底什么问题");
 }
 
 /*
